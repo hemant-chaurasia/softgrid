@@ -8,7 +8,7 @@ import { MyserviceService } from './myservice.service';
   preserveWhitespaces:false
 })
 export class AppComponent {
-  title = 'firstapp';
+  title = 'firstapp on git';
   name = 'Hemant';
   // constructor(@Inject(MyserviceService)myserviceService){
   //   console.log(myserviceService);
